@@ -1,5 +1,6 @@
 ## Data Dictionary — PulseIQ SaaS Performance Analytics
 *PulseIQ - All names and values are fictional*
+
 12 tables · 1000 users · SQLite / PostgreSQL compatible
 
 ---
