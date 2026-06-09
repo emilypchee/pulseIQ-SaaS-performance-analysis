@@ -20,10 +20,11 @@
 - [user_product](#user_product)
 
 ## Relationship Summary
-![Star Schema](images/star_schema.png)
-![Relationships](images/star_schema.png)
+![Star Schema](../images/star_schema.png)
+![Relationships](../images/relationships.png)
 
 ---
+## Table Definitions
 
 ## devices
 
