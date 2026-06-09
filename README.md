@@ -1,6 +1,7 @@
 # PulseIQ SaaS Performance Analysis
 
 ![Dashboard 1 Overview](images/PulseIQ_Dashboard.png)
+![Dashboard 1 Overview](images/PulseIQ_Dashboard_2.png)
 
 ## Overview
 PulseIQ is a B2C software company that offers a suite of consumer productivity and lifestyle applications. Users can subscribe to one or multiple PulseIQ products and interact with features across web and mobile experiences.
