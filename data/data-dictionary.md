@@ -21,7 +21,7 @@
 
 ## Relationship Summary
 ![Star Schema](images/star_schema.png)
-![Relationships](images/relationships.png)
+![Relationships](images/star_schema.png)
 
 ---
 
