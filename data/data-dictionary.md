@@ -20,8 +20,8 @@
 - [user_product](#user_product)
 
 ## Relationship Summary
-![Dashboard 1 Overview](images/star_schema.png)
-![Dashboard 1 Overview](images/relationships.png)
+![Star Schema](images/star_schema.png)
+![Relationships](images/relationships.png)
 
 ---
 
